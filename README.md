@@ -13,7 +13,7 @@ End-to-end Microsoft Fabric analytics solution demonstrating data engineering, s
 
 ## Architecture
 
-Sample data from Kaggle (IBM HR Analytics Employee Attrition & Performance)    
+Fictional sample dataset from Kaggle (IBM HR Analytics Employee Attrition & Performance)    
 ↓
 Bronze Layer    
 ↓
