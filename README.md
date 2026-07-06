@@ -6,6 +6,7 @@ screenshots/fabric-medallion-architechture.png
 
 # Workforce Overview
 screenshots/workforce-overview.png
+
 Executive dashboard providing visibility into:
 
 Headcount
