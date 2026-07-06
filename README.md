@@ -73,10 +73,10 @@ Better work-life balance is associated with lower attrition.
 ## Project Goals
 This project was created to demonstrate practical Microsoft Fabric and people analytics skills including:
 
-Data ingestion
-Data transformation
-Medallion architecture
-Analytics engineering
-Semantic modeling
-Business reporting
-Key findings on attrition
+* Data ingestion
+* Data transformation
+* Medallion architecture
+* Analytics engineering
+* Semantic modeling
+* Business reporting
+* Key findings on attrition
