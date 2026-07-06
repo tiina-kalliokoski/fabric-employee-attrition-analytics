@@ -4,13 +4,13 @@ End-to-end Microsoft Fabric analytics solution demonstrating data engineering, s
 
 # Technologies / Tools
 
-Microsoft Fabric
-Lakehouse
-PySpark
-Delta Tables
-Semantic Model
-Power BI
-GitHub
+* Microsoft Fabric
+* Lakehouse
+* PySpark
+* Delta Tables
+* Semantic Model
+* Power BI
+* GitHub
 
 ## Architecture
 
