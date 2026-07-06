@@ -1,23 +1,78 @@
 # Employee Attrition Analytics Platform
-
-End-to-end analytics project built with Microsoft Fabric based on Kaggle's sample data: IBM HR Analytics Employee Attrition & Performance
-
-## Technologies
-
-- Microsoft Fabric
-- Lakehouse
-- PySpark
-- Delta Tables
-- Semantic Model
-- Power BI
+End-to-end Microsoft Fabric analytics solution demonstrating data engineering, semantic modeling, Power BI reporting and key findings for business.
 
 ## Architecture
+architecture/architecture.png
 
-Bronze → Silver → Gold → Semantic Model → Power BI
-
+# Workforce Overview
 screenshots/workforce-overview.png
+Executive dashboard providing visibility into:
 
-## Dashboards
+Headcount
+Attrition Rate
+Attrition Risk Index
+Average Salary
+Average Tenure
+Department-level workforce composition
 
-- Workforce Overview
-- Attrition Drivers
+
+# Attrition Drivers
+screenshots/attrition-drivers.png
+Analysis of key factors contributing to employee attrition:
+
+Overtime
+Job Satisfaction
+Work-Life Balance
+Environment Satisfaction
+Employee Tenure
+
+
+# Key Insights / Findings
+
+Employees working overtime have significantly higher attrition rates.
+Attrition is highest during the first years of employment.
+Lower job satisfaction strongly correlates with employee turnover.
+Better work-life balance is associated with lower attrition.
+
+
+# Data Architecture
+Sample data CSV    
+↓
+Bronze Layer    
+↓
+Silver Layer    
+↓
+Gold Layer    
+↓
+Semantic Model    
+↓
+Power BI Reports
+
+# Technologies / Tools
+
+Microsoft Fabric
+Lakehouse
+PySpark
+Delta Tables
+Semantic Model
+Power BI
+GitHub
+
+
+# Notebooks
+
+01_Bronze_Load
+02_Silver_Transform
+03_Gold_Aggregations
+
+
+## Project Goals
+This project was created to demonstrate practical Microsoft Fabric and people analytics skills including:
+
+Data ingestion
+Data transformation
+Medallion architecture
+Analytics engineering
+Semantic modeling
+Business reporting
+Key findings on attrition
