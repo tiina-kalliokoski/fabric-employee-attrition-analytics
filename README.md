@@ -1,4 +1,3 @@
-
 # Employee Attrition Analytics Platform
 End-to-end Microsoft Fabric analytics solution demonstrating data engineering, semantic modeling, Power BI reporting and key findings for business.
 
@@ -39,6 +38,7 @@ Executive dashboard providing visibility into:
 * Average Tenure
 * Department-level workforce composition
 
+<img width="1335" height="755" alt="workforce overview" src="https://github.com/user-attachments/assets/cde81146-2dc5-459a-9422-ec1ed1bce45d" />
 
 ### Attrition Drivers
 
