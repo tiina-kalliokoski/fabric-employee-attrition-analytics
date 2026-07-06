@@ -2,7 +2,7 @@
 End-to-end Microsoft Fabric analytics solution demonstrating data engineering, semantic modeling, Power BI reporting and key findings for business.
 
 ## Architecture
-![Fabric Architecture](https://github.com/tiina-kalliokoski/repo/blob/main/screenshots/fabric_architecture.png?raw=true)
+![Fabric Architecture](https://github.com/tiina-kalliokoski/repo/blob/main/screenshots/fabric-medallion-architechture.png?raw=true)
 
 # Workforce Overview
 screenshots/workforce-overview.png
