@@ -1,9 +1,10 @@
+
 # Employee Attrition Analytics Platform
 End-to-end Microsoft Fabric analytics solution demonstrating data engineering, semantic modeling, Power BI reporting and key findings for business.
 
 ## Architecture
 ![Fabric Architecture](https://github.com/tiina-kalliokoski/repo/blob/main/screenshots/fabric_architechture.png?raw=true)
-
+<img width="1057" height="368" alt="fabric_architecture" src="https://github.com/user-attachments/assets/e9206fa0-bd2a-4b44-9ac4-75865f811dd9" />
 
 # Workforce Overview
 screenshots/workforce-overview.png
