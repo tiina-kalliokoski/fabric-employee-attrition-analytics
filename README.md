@@ -1,5 +1,5 @@
 # Employee Attrition Analytics Platform
-End-to-end Microsoft Fabric analytics solution demonstrating data engineering, semantic modeling, Power BI reporting and key findings for business.
+End-to-end Microsoft Fabric analytics solution demonstrating medallion architecture, semantic modeling, Power BI reporting and key findings for business.
 
 > 🚧 **This portfolio is currently being expanded with Microsoft Fabric, data engineering, and analytics projects. Check back in one week for screenshot updates and key findings.**
 
