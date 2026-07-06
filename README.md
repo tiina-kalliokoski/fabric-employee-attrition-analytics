@@ -75,3 +75,4 @@ This project was created to demonstrate practical end-to-end technical skills in
 * Semantic modeling
 * Business reporting
 * Key findings on attrition
+* Code generation and optimization using Microsoft Copilot
