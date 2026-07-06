@@ -15,6 +15,8 @@ End-to-end analytics project built with Microsoft Fabric based on Kaggle's sampl
 
 Bronze → Silver → Gold → Semantic Model → Power BI
 
+screenshots/workforce-overview.png
+
 ## Dashboards
 
 - Workforce Overview
