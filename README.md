@@ -1,9 +1,6 @@
-# fabric-employee-attrition-analytics
-Employee Attrition Analytics Platform:  Built an end-to-end Microsoft Fabric analytics solution using Lakehouse architecture, PySpark transformations, semantic modeling, and Power BI reporting.
-
 # Employee Attrition Analytics Platform
 
-End-to-end analytics project built with Microsoft Fabric.
+End-to-end analytics project built with Microsoft Fabric based on Kaggle's sample data: IBM HR Analytics Employee Attrition & Performance
 
 ## Technologies
 
