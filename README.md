@@ -2,7 +2,29 @@
 # Employee Attrition Analytics Platform
 End-to-end Microsoft Fabric analytics solution demonstrating data engineering, semantic modeling, Power BI reporting and key findings for business.
 
+# Technologies / Tools
+
+Microsoft Fabric
+Lakehouse
+PySpark
+Delta Tables
+Semantic Model
+Power BI
+GitHub
+
 ## Architecture
+
+Sample data CSV    
+↓
+Bronze Layer    
+↓
+Silver Layer    
+↓
+Gold Layer    
+↓
+Semantic Model    
+↓
+Power BI Reports
 
 <img width="1057" height="368" alt="fabric_architecture" src="https://github.com/user-attachments/assets/e9206fa0-bd2a-4b44-9ac4-75865f811dd9" />
 
@@ -38,28 +60,7 @@ Lower job satisfaction strongly correlates with employee turnover.
 Better work-life balance is associated with lower attrition.
 
 
-# Data Architecture
-Sample data CSV    
-↓
-Bronze Layer    
-↓
-Silver Layer    
-↓
-Gold Layer    
-↓
-Semantic Model    
-↓
-Power BI Reports
 
-# Technologies / Tools
-
-Microsoft Fabric
-Lakehouse
-PySpark
-Delta Tables
-Semantic Model
-Power BI
-GitHub
 
 
 # Notebooks
