@@ -29,7 +29,6 @@ Power BI Reports
 <img width="1057" height="368" alt="fabric_architecture" src="https://github.com/user-attachments/assets/e9206fa0-bd2a-4b44-9ac4-75865f811dd9" />
 
 # Workforce Overview
-screenshots/workforce-overview.png
 
 Executive dashboard providing visibility into:
 
@@ -42,7 +41,7 @@ Executive dashboard providing visibility into:
 
 
 # Attrition Drivers
-screenshots/attrition-drivers.png
+
 Analysis of key factors contributing to employee attrition:
 
 * Overtime
@@ -54,24 +53,20 @@ Analysis of key factors contributing to employee attrition:
 
 # Key Insights / Findings
 
-Employees working overtime have significantly higher attrition rates.
-Attrition is highest during the first years of employment.
-Lower job satisfaction strongly correlates with employee turnover.
-Better work-life balance is associated with lower attrition.
-
-
-
-
+* Employees working overtime have significantly higher attrition rates.
+* Attrition is highest during the first years of employment.
+* Lower job satisfaction strongly correlates with employee turnover.
+* Better work-life balance is associated with lower attrition.
 
 # Notebooks
 
-01_Bronze_Load
-02_Silver_Transform
-03_Gold_Aggregations
+* 01_Bronze_Load
+* 02_Silver_Transform
+* 03_Gold_Aggregations
 
 
 ## Project Goals
-This project was created to demonstrate practical Microsoft Fabric and people analytics skills including:
+This project was created to demonstrate practical end-to-end technical skills in Microsoft Fabric as well as in people analytics findings. Project included several steps in:
 
 * Data ingestion
 * Data transformation
