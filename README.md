@@ -33,23 +33,23 @@ screenshots/workforce-overview.png
 
 Executive dashboard providing visibility into:
 
-Headcount
-Attrition Rate
-Attrition Risk Index
-Average Salary
-Average Tenure
-Department-level workforce composition
+* Headcount
+* Attrition Rate
+* Attrition Risk Index
+* Average Salary
+* Average Tenure
+* Department-level workforce composition
 
 
 # Attrition Drivers
 screenshots/attrition-drivers.png
 Analysis of key factors contributing to employee attrition:
 
-Overtime
-Job Satisfaction
-Work-Life Balance
-Environment Satisfaction
-Employee Tenure
+* Overtime
+* Job Satisfaction
+* Work-Life Balance
+* Environment Satisfaction
+* Employee Tenure
 
 
 # Key Insights / Findings
